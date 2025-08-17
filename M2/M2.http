@@ -1,0 +1,6 @@
+@M2_HostAddress = http://localhost:5023
+
+GET {{M2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
